@@ -567,6 +567,57 @@
       "image": "https://dealerinspire-image-library-prod.s3.us-east-1.amazonaws.com/images/Q1XtneiVlEN5NKvwBClZbHAe9lmYrry02GpPLt7P.jpg"
     }
   },
+  "uzbekistan_autosalon": {
+    "Chevrolet Malibu": {
+      "type": "Седан",
+      "price": 2800000,
+      "hp": 250,
+      "speed": 220,
+      "image": "https://lionmotors.uz/wp-content/uploads/2020/11/malibuwhite2.jpg"
+    },
+    "Chevrolet Cobalt": {
+      "type": "Седан",
+      "price": 1500000,
+      "hp": 105,
+      "speed": 170,
+      "image": "https://lionmotors.uz/wp-content/uploads/2020/11/cobalt3.jpg"
+    },
+    "Chevrolet Tracker": {
+      "type": "Кроссовер",
+      "price": 2400000,
+      "hp": 132,
+      "speed": 180,
+      "image": "https://ironhorse.ru/wp-content/uploads/2024/04/tracker-2-front.webp"
+    },
+    "Chevrolet Captiva": {
+      "type": "SUV",
+      "price": 2900000,
+      "hp": 165,
+      "speed": 190,
+      "image": "https://favorit-motors.ru/upload/resize_cache/fm2/e165a107aea57e5190839a0b43ccdcd7_934_0.webp"
+    },
+    "Chevrolet Spark": {
+      "type": "Хэтчбек",
+      "price": 1200000,
+      "hp": 85,
+      "speed": 160,
+      "image": "https://car24.uz/wp-content/uploads/2024/01/4c78fd8c-654e-41b8-9c1a-5868d6af06c34-1.jpg"
+    },
+    "Chevrolet Onix": {
+      "type": "Седан",
+      "price": 1900000,
+      "hp": 132,
+      "speed": 185,
+      "image": "https://lionmotors.uz/wp-content/uploads/2023/06/onixxx.png"
+    },
+    "Chevrolet Equinox": {
+      "type": "Кроссовер",
+      "price": 3200000,
+      "hp": 170,
+      "speed": 200,
+      "image": "https://media.ed.edmunds-media.com/chevrolet/equinox/2022/oem/2022_chevrolet_equinox_4dr-suv_rs_fq_oem_1_1600.jpg"
+    }
+  },
   "moto": {
     "Yamaha R1": {
       "type": "Спортбайк",
