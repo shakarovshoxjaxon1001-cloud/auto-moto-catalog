@@ -1,3 +1,10 @@
 {
-  "orders": []
+  "orders": [
+    {
+      "user": "Shakarov001",
+      "car": "Zeekr 007",
+      "status": "pending",
+      "time": "2025-09-06T08:56:50.417Z"
+    }
+  ]
 }
