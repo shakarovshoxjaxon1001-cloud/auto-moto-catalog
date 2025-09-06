@@ -2,140 +2,140 @@
   "china_autosalon": {
     "Zeekr 001": {
       "type": "Электрокар",
-      "price": 2940000,
+      "price": 4200000,
       "image": "https://zeekr-cars.uz/img/exterior-color-energy-orange@2x.png",
       "hp": 544,
       "speed": 230
     },
     "BYD Han EV": {
       "type": "Электроседан",
-      "price": 2450000,
+      "price": 3500000,
       "image": "https://www.byd.com/content/dam/byd-site/europe-public/navigation/Nav_BYD_HAN.png",
       "hp": 487,
       "speed": 210
     },
     "BYD Dolphin": {
       "type": "Электрохэтчбек",
-      "price": 1680000,
+      "price": 2400000,
       "image": "https://avatars.mds.yandex.net/get-verba/1540742/2a00000195efb9104c92de12b4f53f7daf97/cattouchret",
       "hp": 174,
       "speed": 160
     },
     "Chery Tiggo 7 Pro": {
       "type": "Кроссовер",
-      "price": 1330000,
+      "price": 1900000,
       "image": "https://www.avtogermes.ru/images/marks/chery/tiggo-7-pro-max/i-restajling/colors/_1/chery-tiggo-7-pro-max-i-restajling-belyj-metallik.9b16c06e843055fda3e62fd0662e7d8b.png",
       "hp": 147,
       "speed": 180
     },
     "Chery Arrizo 8": {
       "type": "Седан",
-      "price": 1190000,
+      "price": 1700000,
       "image": "https://maximum-chery.ru/img/pics/states/arrizo-8-sedan-chery.jpg",
       "hp": 186,
       "speed": 195
     },
     "Zeekr X": {
       "type": "Электрокроссовер",
-      "price": 1959999,
+      "price": 2800000,
       "hp": 428,
       "speed": 190,
       "image": "https://ev-motors.by/uploads/images/WMHtsEVU5M.jpg"
     },
     "Zeekr 007": {
       "type": "Электроседан",
-      "price": 2940000,
+      "price": 4200000,
       "hp": 536,
       "speed": 210,
       "image": "https://repost.uz/storage/uploads/52-1702799270-avto11-post-material.png"
     },
     "BYD Tang EV": {
       "type": "Электро-SUV",
-      "price": 2450000,
+      "price": 3500000,
       "hp": 517,
       "speed": 180,
       "image": "https://auto.prc.today/wp-content/uploads/2024/08/byd-tang-2.jpg"
     },
     "BYD Seal": {
       "type": "Электроседан",
-      "price": 2170000,
+      "price": 3100000,
       "hp": 530,
       "speed": 200,
       "image": "https://urbanpower.uz/wp-content/uploads/2023/12/byd-SEAL-urban-cars-5.jpg"
     },
     "BYD Yuan Plus (Atto 3)": {
       "type": "Электрокроссовер",
-      "price": 1540000,
+      "price": 2200000,
       "hp": 204,
       "speed": 160,
       "image": "https://static.tildacdn.com/tild6338-3337-4331-b365-646164626164/DSC05724.jpg"
     },
     "Chery Tiggo 8 Pro": {
       "type": "Кроссовер",
-      "price": 1400000,
+      "price": 2000000,
       "hp": 197,
       "speed": 190,
       "image": "https://www.major-auto.ru/images/models/chery/Tiggo%208%20pro/27981/27981_medium.jpg"
     },
     "Chery eQ1": {
       "type": "Электрохэтчбек",
-      "price": 630000,
+      "price": 900000,
       "hp": 41,
       "speed": 120,
       "image": "https://www.cheryinternational.com/data/tms/website/html/images/root1637317535639429.jpg"
     },
     "Geely Monjaro": {
       "type": "Кроссовер",
-      "price": 1820000,
+      "price": 2600000,
       "hp": 238,
       "speed": 200,
       "image": "https://repost.uz/storage/uploads/0-1692101619-avto11-post-material.jpeg"
     },
     "Haval Dargo": {
       "type": "Кроссовер",
-      "price": 1680000,
+      "price": 2400000,
       "hp": 190,
       "speed": 180,
       "image": "https://www.major-auto.ru/images/models/haval/Dargo/29863/29863_medium.jpg"
     },
     "Haval F7": {
       "type": "Кроссовер",
-      "price": 1470000,
+      "price": 2100000,
       "hp": 190,
       "speed": 180,
       "image": "https://www.major-auto.ru/images/models/haval/new-f7/31280/31280_medium.jpg"
     },
     "Lixiang L9": {
       "type": "Гибридный SUV",
-      "price": 3150000,
+      "price": 4500000,
       "hp": 449,
       "speed": 220,
       "image": "https://carsweek.ru/upload/resize_cache/iblock/3f9/1200_900_1/ai15ecdpjlqp82sghxfwtrwgjy95v4gr.webp"
     },
     "Lixiang L8": {
       "type": "Гибридный SUV",
-      "price": 2800000,
+      "price": 4000000,
       "hp": 381,
       "speed": 210,
       "image": "https://autoelectro.ru/wp-content/uploads/2023/03/li-l8-38-798x466.webp"
     },
     "BYD Son Plus EV": {
       "type": "Электро SUV",
-      "price": 2660000,
+      "price": 3800000,
       "hp": 218,
       "speed": 170,
       "image": "https://guangcaiauto.com/wp-content/uploads/2024/03/BYD-Song-PLUS-EV-2024-appearance-1.webp"
     },
     "Nio ES7": {
       "type": "Электро-SUV",
-      "price": 3220000,
+      "price": 4600000,
       "hp": 653,
       "speed": 240,
       "image": "https://carnewschina.com/wp-content/uploads/2022/06/nio-es7-2-1-1.jpg"
     },
     "Nio ET5": {
       "type": "Электроседан",
-      "price": 2520000,
+      "price": 3600000,
       "hp": 489,
       "speed": 220,
       "image": "https://marketplace.china-crunch.com/cdn/shop/files/nio_et5_evmarketplace_chinacrunch_01.png?v=1689428909"
@@ -144,140 +144,140 @@
   "europe_autosalon": {
     "BMW M5 F90": {
       "type": "Седан",
-      "price": 6650000,
+      "price": 9500000,
       "hp": 625,
       "speed": 305,
       "image": "https://www.pngmart.com/files/22/BMW-M5-PNG-HD.png"
     },
     "Audi RS6 Avant": {
       "type": "Универсал",
-      "price": 6090000,
+      "price": 8700000,
       "hp": 600,
       "speed": 305,
       "image": "https://media.ed.edmunds-media.com/audi/rs-6/2025/oem/2025_audi_rs-6_wagon_performance_fq_oem_1_1280.jpg"
     },
     "Volkswagen Golf R": {
       "type": "Хэтчбек",
-      "price": 2870000,
+      "price": 4100000,
       "hp": 320,
       "speed": 250,
       "image": "https://vehicle-images.dealerinspire.com/stock-images/chrome/77fc93790f0c24c5bb436316b219128b.png"
     },
     "Mercedes-AMG E63 S": {
       "type": "Седан",
-      "price": 7140000,
+      "price": 10200000,
       "hp": 612,
       "speed": 300,
       "image": "https://zopsoftware-asset.b-cdn.net/upload/132a38b4ab0307e6f28bea2935d58aa8/1704398337_37bb3ce6a8dcb0125970.jpg"
     },
     "Porsche 911 Carrera": {
       "type": "Купе",
-      "price": 7210000,
+      "price": 10300000,
       "hp": 385,
       "speed": 293,
       "image": "https://www.motortrend.com/uploads/sites/5/2020/06/2020-Porsche-911-Carrera-35.jpg"
     },
     "BMW X7 M60i": {
       "type": "SUV",
-      "price": 5950000,
+      "price": 8500000,
       "hp": 530,
       "speed": 250,
       "image": "https://i.gaw.to/vehicles/photos/40/31/403101-2023-bmw-x7.jpg?640x400"
     },
     "BMW iX M60": {
       "type": "Электро-SUV",
-      "price": 6440000,
+      "price": 9200000,
       "hp": 619,
       "speed": 250,
       "image": "https://cdn.motor1.com/images/mgl/BXOvXA/s1/2023-bmw-ix-m60-exterior.jpg"
     },
     "Audi Q8 e-tron": {
       "type": "Электро-SUV",
-      "price": 5460000,
+      "price": 7800000,
       "hp": 408,
       "speed": 200,
       "image": "https://www.thecarexpert.co.uk/wp-content/uploads/2019/06/Audi-Q8-e-tron-2133x1200-cropped.jpg"
     },
     "Audi R8 V10 Performance": {
       "type": "Суперкар",
-      "price": 11900000,
+      "price": 17000000,
       "hp": 620,
       "speed": 330,
       "image": "https://www.europeanprestige.co.uk/blobs/stock/463/images/44f2a623-d0b1-46af-b86c-ba93e6945c70/hi4a1614.jpg?width=2000&height=1333"
     },
     "Mercedes-Benz G63 AMG": {
       "type": "Внедорожник",
-      "price": 8750000,
+      "price": 12500000,
       "hp": 585,
       "speed": 240,
       "image": "https://cdn.motor1.com/images/mgl/1ALLW/s1/2019-mercedes-amg-g63-edition-1.jpg"
     },
     "Mercedes-AMG GT 63 S": {
       "type": "Купе-седан",
-      "price": 9450000,
+      "price": 13500000,
       "hp": 639,
       "speed": 315,
       "image": "https://cdn.motor1.com/images/mgl/6Wo6X/s1/mercedes-amg-gt-63-s-with-aerodynamic-package.jpg"
     },
     "Porsche Taycan Turbo S": {
       "type": "Электроседан",
-      "price": 10500000,
+      "price": 15000000,
       "hp": 761,
       "speed": 260,
       "image": "https://www.europeanprestige.co.uk/blobs/stock/305/images/55b1774f-0620-4fb5-b7d0-215926de2e67/hi4a6704.jpg?width=2000&height=1333"
     },
     "Ferrari F8 Tributo": {
       "type": "Суперкар",
-      "price": 15399999,
+      "price": 22000000,
       "hp": 720,
       "speed": 340,
       "image": "https://spots.ag/2024/05/22/ferrari-f8-tributo-c506222052024033822_1.jpg?1716341935"
     },
     "Lamborghini Huracán STO": {
       "type": "Суперкар",
-      "price": 17500000,
+      "price": 25000000,
       "hp": 640,
       "speed": 310,
       "image": "https://robbreport.com/wp-content/uploads/2020/11/4-13.jpg?w=1000"
     },
     "Lamborghini Urus Performante": {
       "type": "SUV",
-      "price": 14699999,
+      "price": 21000000,
       "hp": 666,
       "speed": 306,
       "image": "https://gateauto.ru/upload/iblock/b5d/ns2er3vp4psx8jneag1r8m00m4z15b7a.JPG"
     },
     "BMW M2 G87": {
       "type": "Купе",
-      "price": 4550000,
+      "price": 6500000,
       "hp": 460,
       "speed": 280,
       "image": "https://cdn.bmwblog.com/wp-content/uploads/2023/04/BMW-M2-G87-in-Mexico-1.jpg"
     },
     "Audi RS3": {
       "type": "Хэтчбек",
-      "price": 3779999,
+      "price": 5400000,
       "hp": 400,
       "speed": 280,
       "image": "https://m.atcdn.co.uk/vms/media/3a0ab3f9833c4d69a527aeb4c468d48f.jpg"
     },
     "Mercedes CLA 45 AMG": {
       "type": "Седан",
-      "price": 4059999,
+      "price": 5800000,
       "hp": 421,
       "speed": 270,
       "image": "https://vehicle-images.dealerinspire.com/3afd-110009442/thumbnails/large/W1K5J5EB4SN510132/c34f561b6717629cc6bf8c4f14c3d008.jpg"
     },
     "Porsche Cayenne Turbo GT": {
       "type": "SUV",
-      "price": 8400000,
+      "price": 12000000,
       "hp": 640,
       "speed": 305,
       "image": "https://vehicle-images.dealerinspire.com/c494-210011231/WP1BK2AY0SDA49177/4ca204484c628d681e719efe8d0336c3.jpg"
     },
     "Lamborghini Revuelto": {
       "type": "Суперкар (гибрид)",
-      "price": 24500000,
+      "price": 35000000,
       "hp": 1015,
       "speed": 350,
       "image": "https://gvelondon.com/wp-content/uploads/2025/07/LAMBORGHINI-REVUELTO-GREENJAN25-2-1024x576.jpg"
@@ -286,140 +286,140 @@
   "korea_autosalon": {
     "Hyundai Sonata N-Line": {
       "type": "Седан",
-      "price": 2170000,
+      "price": 3100000,
       "hp": 290,
       "speed": 250,
       "image": "https://s7d1.scene7.com/is/image/hyundai/2025-sonata-open-graph?wid=1200&hei=630&qlt=85,0&fmt=webp"
     },
     "Kia K5 GT": {
       "type": "Седан",
-      "price": 2240000,
+      "price": 3200000,
       "hp": 290,
       "speed": 250,
       "image": "https://octane.rent/wp-content/uploads/2024/03/kia-k5-gt-line-grey-2.jpg"
     },
     "Genesis G70": {
       "type": "Премиум-седан",
-      "price": 3010000,
+      "price": 4300000,
       "hp": 365,
       "speed": 270,
       "image": "https://media.ed.edmunds-media.com/genesis/g70/2025/oem/2025_genesis_g70_sedan_33t-sport-advanced_fq_oem_1_1600.jpg"
     },
     "Kia EV6 GT": {
       "type": "Электрокар",
-      "price": 4059999,
+      "price": 5800000,
       "hp": 585,
       "speed": 260,
       "image": "https://images.firstpost.com/wp-content/uploads/2021/03/kia-ev6-makes-world-premiere-has-range-of-over-500-kilometres.jpg"
     },
     "Hyundai Ioniq 5 N": {
       "type": "Электрокар",
-      "price": 3919999,
+      "price": 5600000,
       "hp": 650,
       "speed": 260,
       "image": "https://hips.hearstapps.com/hmg-prod/images/2025-hyundai-ioniq-5-n-109-663249ee4e174.jpg?crop=0.663xw:0.498xh;0.178xw,0.288xh&resize=1200:*"
     },
     "Hyundai Palisade": {
       "type": "SUV",
-      "price": 2450000,
+      "price": 3500000,
       "hp": 291,
       "speed": 210,
       "image": "https://media.ed.edmunds-media.com/hyundai/palisade/2025/oem/2025_hyundai_palisade_4dr-suv_calligraphy_fq_oem_1_600.jpg"
     },
     "Hyundai Tucson N-Line": {
       "type": "Кроссовер",
-      "price": 1959999,
+      "price": 2800000,
       "hp": 187,
       "speed": 200,
       "image": "https://d1ek71enupal89.cloudfront.net/images/blocks_png/HYUNDAI/TUCSON/5DR/24HyuTucNLin5drBlaFR1_800.jpg"
     },
     "Hyundai Kona Electric": {
       "type": "Электрокроссовер",
-      "price": 1820000,
+      "price": 2600000,
       "hp": 204,
       "speed": 170,
       "image": "https://hips.hearstapps.com/hmg-prod/images/2025-hyundai-kona-electric-103-66c4f0e6731e3.jpg?crop=0.623xw:0.526xh;0.194xw,0.363xh&resize=1200:*"
     },
     "Kia Sportage": {
       "type": "Кроссовер",
-      "price": 1750000,
+      "price": 2500000,
       "hp": 187,
       "speed": 190,
       "image": "https://www.spot.uz/media/img/2022/06/1Nzn3y16559973109874_l.jpg"
     },
     "Kia Stinger GT": {
       "type": "Лифтбек",
-      "price": 2590000,
+      "price": 3700000,
       "hp": 366,
       "speed": 270,
       "image": "https://images.pistonheads.com/nimg/47447/mceu_16127807611689608646735.jpg"
     },
     "Kia Sorento Prime": {
       "type": "SUV",
-      "price": 2100000,
+      "price": 3000000,
       "hp": 249,
       "speed": 210,
       "image": "https://carsweek.ru/upload/iblock/80c/kdqekdtxt7d1l3s569bntv713fbhhaxc.jpg"
     },
     "Genesis GV80": {
       "type": "SUV",
-      "price": 3150000,
+      "price": 4500000,
       "hp": 375,
       "speed": 240,
       "image": "https://i.infocar.ua/i/12/6085/1400x936.jpg"
     },
     "Genesis Electrified G80": {
       "type": "Электроседан",
-      "price": 3640000,
+      "price": 5200000,
       "hp": 370,
       "speed": 225,
       "image": "https://i.infocar.ua/i/12/6717/1400x936.jpg"
     },
     "SsangYong Rexton": {
       "type": "SUV",
-      "price": 1889999,
+      "price": 2700000,
       "hp": 202,
       "speed": 185,
       "image": "https://cdn.riastatic.com/photosnewr/auto/newauto_photos/ssangyong-rexton__1073927-620x465x72.jpg"
     },
     "SsangYong Torres": {
       "type": "SUV",
-      "price": 1820000,
+      "price": 2600000,
       "hp": 170,
       "speed": 180,
       "image": "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/ssangyong-torres__2581869-400x300x60.jpg"
     },
     "Hyundai Elantra N": {
       "type": "Седан",
-      "price": 1750000,
+      "price": 2500000,
       "hp": 280,
       "speed": 250,
       "image": "https://images.hgmsites.net/hug/2024-hyundai-elantra_100882436_h.jpg"
     },
     "Kia K8": {
       "type": "Седан",
-      "price": 2380000,
+      "price": 3400000,
       "hp": 300,
       "speed": 240,
       "image": "https://s.auto.drom.ru/i24290/c/photos/fullsize/kia/k8/kia_k8_1184876.jpg"
     },
     "Genesis GV70": {
       "type": "SUV",
-      "price": 2940000,
+      "price": 4200000,
       "hp": 375,
       "speed": 240,
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Genesis_GV70_IAA_2021_1X7A0228.jpg/1200px-Genesis_GV70_IAA_2021_1X7A0228.jpg"
     },
     "Hyundai Nexo": {
       "type": "Водородный кроссовер",
-      "price": 3640000,
+      "price": 5200000,
       "hp": 163,
       "speed": 180,
       "image": "https://autoreview.ru/img/article/images/1780/178091/lh4nM4mZ2X.jpg"
     },
     "Kia EV9": {
       "type": "Электро-SUV",
-      "price": 4340000,
+      "price": 6200000,
       "hp": 385,
       "speed": 200,
       "image": "https://www.allcarz.ru/wp-content/uploads/2023/03/foto-ev9_04.jpg"
@@ -428,140 +428,140 @@
   "america_autosalon": {
     "Ford Mustang GT": {
       "type": "Купе",
-      "price": 3849999,
+      "price": 5500000,
       "hp": 450,
       "speed": 250,
       "image": "https://www.vdm.ford.com/content/dam/na/ford/en_us/images/mustang/2025/jellybeans/Ford_Mustang_2025_200A_PJS_883_89W_13B_COU_64F_99H_44U_EBST_YZTAC_DEFAULT_EXT_4.png"
     },
     "Chevrolet Camaro ZL1": {
       "type": "Купе",
-      "price": 4200000,
+      "price": 6000000,
       "hp": 650,
       "speed": 290,
       "image": "https://autopremiumgroup.ru/m/_versions/catalog/autos/2021/chevrolet_camaro_2021_kupe/zl1_convertible/2021_camaro_conv_zl1_sw_1_image_series.jpg"
     },
     "Dodge Challenger SRT Hellcat": {
       "type": "Купе",
-      "price": 4550000,
+      "price": 6500000,
       "hp": 717,
       "speed": 320,
       "image": "https://i.gaw.to/content/photos/30/25/302501_2018_Dodge_Challenger.jpg"
     },
     "Cadillac Escalade": {
       "type": "Внедорожник",
-      "price": 4900000,
+      "price": 7000000,
       "hp": 420,
       "speed": 210,
       "image": "https://autopremiumgroup.ru/m/_versions/catalog/autos/2025/cadillac_escalade_v_2025_vnedorozhnik_5dv/v/v_br_image_series.jpg"
     },
     "Tesla Model S Plaid": {
       "type": "Электрокар",
-      "price": 6300000,
+      "price": 9000000,
       "hp": 1020,
       "speed": 322,
       "image": "https://hips.hearstapps.com/hmg-prod/images/compositor-1623493959.jpg?crop=0.628xw:0.628xh;0.190xw,0.222xh&resize=640:*"
     },
     "Ford F-150 Raptor": {
       "type": "Пикап",
-      "price": 3500000,
+      "price": 5000000,
       "hp": 450,
       "speed": 180,
       "image": "https://hpe-photos.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/08/Raptor-Rewind-3-scaled.jpg"
     },
     "Ford Bronco Raptor": {
       "type": "SUV",
-      "price": 3360000,
+      "price": 4800000,
       "hp": 418,
       "speed": 170,
       "image": "https://cdn.prod.website-files.com/5b4a3b3971d099f78f362505/649103be3615411442b1bb56_2022-Ford-Bronco-RAPTOR-Shadow-Black-1FMEE5JRXNLA51184_012.webp"
     },
     "Chevrolet Corvette C8 Stingray": {
       "type": "Спорткар",
-      "price": 4900000,
+      "price": 7000000,
       "hp": 495,
       "speed": 312,
       "image": "https://www.corvsport.com/wp-content/uploads/2024/07/2020-Chevrolet-C8-Corvette.jpg"
     },
     "Chevrolet Tahoe RST": {
       "type": "SUV",
-      "price": 3849999,
+      "price": 5500000,
       "hp": 355,
       "speed": 210,
       "image": "https://autopremiumgroup.ru/m/_versions/real_autos/chevrolet_tahoe_high_country_2025_1054/screenshot_6_preview_image.png"
     },
     "Dodge Durango SRT Hellcat": {
       "type": "SUV",
-      "price": 4340000,
+      "price": 6200000,
       "hp": 710,
       "speed": 290,
       "image": "https://repost.uz/storage/uploads/0-1700733167-avto11-post-material.jpeg"
     },
     "Jeep Grand Cherokee Trackhawk": {
       "type": "SUV",
-      "price": 4059999,
+      "price": 5800000,
       "hp": 707,
       "speed": 290,
       "image": "https://www.carscoops.com/wp-content/uploads/2021/07/2021-Jeep-Grand-Cherokee-Tr.jpg"
     },
     "Tesla Cybertruck": {
       "type": "Электропикап",
-      "price": 4200000,
+      "price": 6000000,
       "hp": 800,
       "speed": 210,
       "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Cybertruck/7236/1752554727590/front-left-side-47.jpg"
     },
     "Tesla Model X Plaid": {
       "type": "Электро-SUV",
-      "price": 6650000,
+      "price": 9500000,
       "hp": 1020,
       "speed": 320,
       "image": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2024/04/2022-tesla-model-x-plaid.jpg"
     },
     "Cadillac Lyriq": {
       "type": "Электро-SUV",
-      "price": 4900000,
+      "price": 7000000,
       "hp": 500,
       "speed": 210,
       "image": "https://www.iihs.org/cdn-cgi/image/width=636/api/ratings/model-year-images/3380/"
     },
     "GMC Hummer EV SUV": {
       "type": "Электро-SUV",
-      "price": 7699999,
+      "price": 11000000,
       "hp": 1000,
       "speed": 210,
       "image": "https://elcars.ua/salon/wp-content/uploads/sites/6/2024/07/photo_2024-07-08_10-08-32-798x466.jpg"
     },
     "Chevrolet Blazer EV": {
       "type": "Электро-SUV",
-      "price": 4340000,
+      "price": 6200000,
       "hp": 557,
       "speed": 210,
       "image": "https://cdn.motor1.com/images/mgl/Kb14EM/s1/2024-chevrolet-blazer-ev-exterior-front-quarter.jpg"
     },
     "Lucid Air Dream Edition": {
       "type": "Электроседан",
-      "price": 10500000,
+      "price": 15000000,
       "hp": 1111,
       "speed": 320,
       "image": "https://i.ytimg.com/vi/qBBamLkmvxA/sddefault.jpg"
     },
     "Rivian R1T": {
       "type": "Электропикап",
-      "price": 5600000,
+      "price": 8000000,
       "hp": 835,
       "speed": 200,
       "image": "https://electrek.co/wp-content/uploads/sites/3/2020/11/Rivian-Blue.jpg?quality=82&strip=all"
     },
     "Hennessey Venom F5": {
       "type": "Гиперкар",
-      "price": 21000000,
+      "price": 30000000,
       "hp": 1817,
       "speed": 500,
       "image": "https://www.turbo.fr/sites/default/files/styles/header_image/public/2024-09/002%20Hennessey.jpeg?itok=dCZuMoaY"
     },
     "Cadillac Celestiq": {
       "type": "Электролюкс-седан",
-      "price": 17500000,
+      "price": 25000000,
       "hp": 600,
       "speed": 240,
       "image": "https://dealerinspire-image-library-prod.s3.us-east-1.amazonaws.com/images/Q1XtneiVlEN5NKvwBClZbHAe9lmYrry02GpPLt7P.jpg"
