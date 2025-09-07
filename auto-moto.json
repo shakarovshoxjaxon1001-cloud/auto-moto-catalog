@@ -618,6 +618,148 @@
       "image": "https://media.ed.edmunds-media.com/chevrolet/equinox/2022/oem/2022_chevrolet_equinox_4dr-suv_rs_fq_oem_1_1600.jpg"
     }
   },
+  "japan_autosalon": {
+    "Toyota Supra GR": {
+      "type": "Купе",
+      "price": 4500000,
+      "hp": 387,
+      "speed": 250,
+      "image": "https://www.toyota.com.sg/showroom/new-models/-/media/5ac9a4850d0c4287a055880afdb36d4a.png"
+    },
+    "Nissan GT-R R35": {
+      "type": "Суперкар",
+      "price": 12000000,
+      "hp": 565,
+      "speed": 315,
+      "image": "https://www.exoticcarhacks.com/wp-content/uploads/2024/07/Used-2021-Nissan-GT-R-Premium-T-SPEC-in-Millenium-Jade-w-Delivery-Miles-1701298714.jpg"
+    },
+    "Lexus LC 500": {
+      "type": "Купе",
+      "price": 9500000,
+      "hp": 477,
+      "speed": 270,
+      "image": "https://belairlexus.com/wp-content/uploads/2025/01/lexus-2025-lc-500-performance-package-ultra-white-x.jpg"
+    },
+    "Honda NSX": {
+      "type": "Гибридный суперкар",
+      "price": 16000000,
+      "hp": 581,
+      "speed": 307,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Honda%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1625%29_%28cropped%29.jpg"
+    },
+    "Mazda RX-7": {
+      "type": "Купе (ретро)",
+      "price": 3000000,
+      "hp": 280,
+      "speed": 250,
+      "image": "https://www.triodriver.com/wp-content/uploads/2015/12/mazda_rx7_triodriverblog_naslovna.jpeg"
+    },
+    "Toyota Land Cruiser 300": {
+      "type": "SUV",
+      "price": 8000000,
+      "hp": 415,
+      "speed": 210,
+      "image": "https://images.firstpost.com/wp-content/uploads/2021/06/2022_toyota_land_cruiser_revealed_1.jpg"
+    },
+    "Subaru WRX STI": {
+      "type": "Спортседан",
+      "price": 4200000,
+      "hp": 310,
+      "speed": 255,
+      "image": "https://cdn.motor1.com/images/mgl/G3Al41/s3/subaru-wrx-sti-s210.jpg"
+    },
+    "Mitsubishi Lancer Evolution X": {
+      "type": "Спортседан",
+      "price": 3500000,
+      "hp": 300,
+      "speed": 250,
+      "image": "https://a.d-cd.net/7b4f12es-960.jpg"
+    },
+    "Honda Civic Type R": {
+      "type": "Хэтчбек",
+      "price": 3200000,
+      "hp": 329,
+      "speed": 270,
+      "image": "https://www.carscoops.com/wp-content/uploads/2022/07/2023-Honda-Civic-Type-R-9-1024x555.jpg"
+    },
+    "Mazda MX-5 Miata": {
+      "type": "Родстер",
+      "price": 2800000,
+      "hp": 184,
+      "speed": 220,
+      "image": "https://a.d-cd.net/xSZdIQHa-rvCBBWttjic3jTP12Q-960.jpg"
+    },
+    "Toyota Prius": {
+      "type": "Гибрид",
+      "price": 2200000,
+      "hp": 196,
+      "speed": 180,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2023-04-03-at-5-52-21-pmb-642c929659440.png"
+    },
+    "Nissan Silvia S15": {
+      "type": "Купе (JDM легенда)",
+      "price": 2500000,
+      "hp": 250,
+      "speed": 240,
+      "image": "https://cdn.dealeraccelerate.com/craft/1/295/20162/1920x1440/1999-nissan-silvia-spec-r-aero-silvia-s15"
+    },
+    "Toyota AE86 Trueno": {
+      "type": "Купе (легенда Initial D)",
+      "price": 1500000,
+      "hp": 130,
+      "speed": 190,
+      "image": "https://japanesenostalgiccar.com/wordpress/wp-content/uploads/2022/06/DeAgostini-Toyota-AE86-Sprinter-Trueno-01-e1654247124389.jpg"
+    },
+    "Mazda RX-8": {
+      "type": "Купе",
+      "price": 2200000,
+      "hp": 231,
+      "speed": 230,
+      "image": "https://garagedreams.net/wp-content/uploads/2019/12/Ultimate-Mazda-RX-8-Buyers-Guide-and-History.jpg"
+    },
+    "Suzuki Jimny": {
+      "type": "Компактный внедорожник",
+      "price": 1800000,
+      "hp": 102,
+      "speed": 140,
+      "image": "https://carsweek.ru/upload/iblock/2a5/2a54ad0d0e4e688152641a5845a57842.jpg"
+    },
+    "Toyota Crown": {
+      "type": "Седан бизнес-класса",
+      "price": 4000000,
+      "hp": 340,
+      "speed": 240,
+      "image": "https://i.ytimg.com/vi/17fTC7tmejk/maxresdefault.jpg"
+    },
+    "Lexus LX 600": {
+      "type": "Премиум SUV",
+      "price": 11000000,
+      "hp": 409,
+      "speed": 210,
+      "image": "https://nextcar.ua/images/blog/490/2022-lexus-lx-600__1_.jpg"
+    },
+    "Nissan Z (400Z)": {
+      "type": "Купе",
+      "price": 4800000,
+      "hp": 405,
+      "speed": 250,
+      "image": "https://rmcmiami.com/wp-content/uploads/2023/12/IMG_6060.jpg"
+    },
+    "Honda Accord Type R": {
+      "type": "Седан",
+      "price": 3100000,
+      "hp": 220,
+      "speed": 240,
+      "image": "https://cdn.dealeraccelerate.com/international/1/755/34419/1920x1440/2000-honda-accord-euro-r"
+    },
+    "Nissan Pathfinder": {
+      "type": "SUV",
+      "price": 4200000,
+      "hp": 284,
+      "speed": 210,
+      "image": "https://media.drive.com.au/obj/tx_q:80,rs:auto:640:360:1/driveau/upload/cms/uploads/tzv1yjwqa9eiuvh8ag5b"
+    }
+  },
   "moto": {
     "Yamaha R1": {
       "type": "Спортбайк",
